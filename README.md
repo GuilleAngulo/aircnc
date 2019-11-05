@@ -24,7 +24,7 @@ If two user do like one to each other, a match will show in the screen.
 * [React](https://reactjs.org/) - Javascript client side
 * [React-Native](http://www.reactnative.com/) - Native mobile client app
 * [NodeJS](https://nodejs.org/en/) -  The server-side JavaScript runtime environment
-* [Expo] (https://expo.io/) - An open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
+* [Expo](https://expo.io/) - An open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
 
 ## Authors
 
