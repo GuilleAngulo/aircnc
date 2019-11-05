@@ -1,7 +1,12 @@
 # AirCnC
-This app has 3 basic modules:
+A company uses the browser client of the app to register spots for rent (for coding, with an specific programming language). Then a user, using the mobile version of the app, can make a booking indicating the day. After that, the booking request will be shown for the company who can accept or reject the proposal.
+The project is divided in three modules:
+
 ### Backend
-Developed in NodeJS, is an API Rest to attend requests from the web version of the frontend as the mobile version.
+Developed in NodeJS, is an API Rest that attend requests from the web version of the frontend as well as from the mobile version.
+
+### Frontend Browser
+Developed in ReactJS, this browser client is basically an admin panel for register new Spots (adding photos, programming languages 
 This app has basically two pages: login and main. The backend of the app is developed in NodeJS, and the frontend is coded in two versions: one in React for browser client and another in React-Native for mobile-native client. Course produced by @RockeatSeat and teached by @diego3g.
 
 ## Login
