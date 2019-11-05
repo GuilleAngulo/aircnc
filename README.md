@@ -1,25 +1,35 @@
 # AirCnC
-A company uses the browser client of the app to register spots for rent (for coding, with an specific programming language). Then a user, using the mobile version of the app, can make a booking indicating the day. After that, the booking request will be shown for the company who can accept or reject the proposal.
+A company uses the browser client of the app to register spots for rent (for coding, with an specific programming language). Then a user, using the mobile version of the app, can make a booking indicating the day. After that, the booking request will be shown for the company who can accept or reject the proposal. (Course produced by @RockeatSeat and teached by @diego3g).
 The project is divided in three modules:
 
 ### Backend
 Developed in NodeJS, is an API Rest that attend requests from the web version of the frontend as well as from the mobile version.
 
-### Frontend Browser
-Developed in ReactJS, this browser client is basically an admin panel for register new Spots (adding photos, programming languages 
-This app has basically two pages: login and main. The backend of the app is developed in NodeJS, and the frontend is coded in two versions: one in React for browser client and another in React-Native for mobile-native client. Course produced by @RockeatSeat and teached by @diego3g.
+### Frontend
+Developed in ReactJS, this browser client is basically an admin panel for a company to register new Spots (adding photos, programming languages and daily cost). After a user makes a booking request, a message is displayed to the company for accept or reject the book proposal (In real time, with socket-io).
 
-## Login
-In the login page the user will insert his Github nickname, which will create a new app user by getting his github basic data (Avatar, Bio, Username) using the public API.
-
-## Main
-In the main page, a list of users already registered is shown along with two buttons: "like" and "dislike". Both buttons turn off users profiles from current user´s view, leaving only users without any interaction.
-If two user do like one to each other, a match will show in the screen.
+### Mobile
+Developed in React Native, using Expo, this client is used by the user to search spots filtered by programming languages of his interest. He can make a booking proposal with an specific day, and will be answered if the booking is accepted or rejected in real time when the company makes a response.
 
 ### Modules
 * Axios - Requesting resources from Github API
 * Socket.io / socket.io-client - Real-time WebSocket for booking spots
 *
+
+### How to run
+Its necessary to have NodeJS, NPM and Expo installed. 
+#### Run the backend, "backend/" 
+```
+npm run dev
+```
+#### Run the browser client, "frontend/"
+```
+npm start
+```
+#### Run the mobile app, "mobile/". It is possible to run the app in a simulator as well as in the own phone. To run in the simulator (you can download [Genimotion](https://www.genymotion.com/) for that), and in the bundler admin select the option "Run android in a simulator". It will automatically seach for a running android simulator. Otherwise its possible to run in your phone device donwloading the expo app in the Play Store, and scan the QR code that appears at the bundler admin page.
+```
+expo start
+```
 
 
 ## Built With
