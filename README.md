@@ -39,8 +39,8 @@ This project is licensed under the MIT License.
 * This project is developed as a part of the Omnistack Week 9.0 by Rocketseat (https://github.com/Rocketseat) 
 
 ## Screens - Web Version
-<img src="https://github.com/GuilleAngulo/aircnc/blob/master/web-1.png" width="500"><img src="https://github.com/GuilleAngulo/aircnc/blob/master/web-2.png" width="500">
-<img src="https://github.com/GuilleAngulo/aircnc/blob/master/web-3.png" width="500">
+<img src="https://github.com/GuilleAngulo/aircnc/blob/master/web-1.png" width="450"><img src="https://github.com/GuilleAngulo/aircnc/blob/master/web-2.png" width="450">
+<img src="https://github.com/GuilleAngulo/aircnc/blob/master/web-3.png" width="450">
 
 ## Screens - Mobile Version
 <img src="https://github.com/GuilleAngulo/aircnc/blob/master/mobile-1.png" width="280"><img src="https://github.com/GuilleAngulo/aircnc/blob/master/mobile-2.png" width="280"><img src="https://github.com/GuilleAngulo/aircnc/blob/master/mobile-3.png" width="280">
