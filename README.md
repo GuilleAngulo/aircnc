@@ -44,6 +44,6 @@ This project is licensed under the MIT License.
 <img src="https://github.com/GuilleAngulo/aircnc/blob/master/web-3.png" width="400">
 
 ## Screens - Mobile Version
-<img src="https://github.com/GuilleAngulo/aircnc/blob/master/mobile-1.png" width="250"><img src="https://github.com/GuilleAngulo/aircnc/blob/master/mobile-2.png" width="250"><img src="https://github.com/GuilleAngulo/aircnc/blob/master/mobile-3.png" width="250">
+<img src="https://github.com/GuilleAngulo/aircnc/blob/master/mobile-1.png" width="280"><img src="https://github.com/GuilleAngulo/aircnc/blob/master/mobile-2.png" width="280"><img src="https://github.com/GuilleAngulo/aircnc/blob/master/mobile-3.png" width="280">
 
 
