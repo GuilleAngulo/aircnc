@@ -13,10 +13,13 @@ Developed in React Native, using Expo, this client is used by the user to search
 
 ### Modules
 * [Axios](https://github.com/axios/axios) - Requesting resources from the backend API
-* [Socket.io / socket.io-client](https://socket.io/) - Real-time WebSocket for booking spots
+* [Socket.io / Socket.io-Client](https://socket.io/) - Real-time WebSocket for booking spots
 * [Express](https://expressjs.com) and [CORS](https://www.npmjs.com/package/cors) - Node.js web framework for API routing
 * [Multer](https://github.com/expressjs/multer) - Node.js middleware for handling multipart/form-data (uploading files)
 * [Mongoose](https://mongoosejs.com/) - Mongo DB object modeling
+* [React Navigation](https://reactnavigation.org/) - Library for routing and navigation
+* [React Native Gesture Handler](https://github.com/kmagiera/react-native-gesture-handler) - Library for touch gestures
+* [React Native Reanimated](https://github.com/kmagiera/react-native-reanimated) - Library for navigate animations
 
 ### How to run
 Its necessary to have installed: [Node.js (LTS)](https://nodejs.org/en/), [NPM](https://www.npmjs.com/get-npm) or [Yarn](https://yarnpkg.com/lang/en/) and [Expo](https://expo.io/).
