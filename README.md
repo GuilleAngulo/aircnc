@@ -22,7 +22,7 @@ Developed in React Native, using Expo, this client is used by the user to search
 * [React Native Reanimated](https://github.com/kmagiera/react-native-reanimated) - Library for navigate animations
 
 ### How to run
-Its necessary to have installed: [Node.js (LTS)](https://nodejs.org/en/), [NPM](https://www.npmjs.com/get-npm) or [Yarn](https://yarnpkg.com/lang/en/) and [Expo](https://expo.io/).
+It´s necessary to have installed: [Node.js (LTS)](https://nodejs.org/en/), [NPM](https://www.npmjs.com/get-npm) or [Yarn](https://yarnpkg.com/lang/en/) and [Expo](https://expo.io/).
 
 #### Backend
 There is a script, **dev** (using [Nodemon](https://nodemon.io/) for development purpose), declared at backend/package.json to run the server.
