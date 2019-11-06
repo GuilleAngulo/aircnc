@@ -17,9 +17,10 @@ Developed in React Native, using Expo, this client is used by the user to search
 *
 
 ### How to run
-Its necessary to have NodeJS, NPM and Expo installed. 
+Its necessary to have installed: [Node.js (LTS)](https://nodejs.org/en/), [NPM](https://www.npmjs.com/get-npm) or [Yarn](https://yarnpkg.com/lang/en/) and [Expo](https://expo.io/).
+
 #### Backend
-There is an script, **dev** (using [Nodemon](https://nodemon.io/) for development purpose), declared at backend/package.json to run the server.
+There is a script, **dev** (using [Nodemon](https://nodemon.io/) for development purpose), declared at backend/package.json to run the server.
 ```
 cd backend/
 npm run dev
