@@ -12,9 +12,11 @@ Developed in ReactJS, this browser client is basically an admin panel for a comp
 Developed in React Native, using Expo, this client is used by the user to search spots filtered by programming languages of his interest. He can make a booking proposal with an specific day, and will be answered if the booking is accepted or rejected in real time when the company makes a response.
 
 ### Modules
-* Axios - Requesting resources from Github API
-* Socket.io / socket.io-client - Real-time WebSocket for booking spots
-*
+* [Axios](https://github.com/axios/axios) - Requesting resources from the backend API
+* [Socket.io / socket.io-client](https://socket.io/) - Real-time WebSocket for booking spots
+* [Express](https://expressjs.com) and [CORS](https://www.npmjs.com/package/cors) - Node.js web framework for API routing
+* [Multer](https://github.com/expressjs/multer) - Node.js middleware for handling multipart/form-data (uploading files)
+* [Mongoose](https://mongoosejs.com/) - Mongo DB object modeling
 
 ### How to run
 Its necessary to have installed: [Node.js (LTS)](https://nodejs.org/en/), [NPM](https://www.npmjs.com/get-npm) or [Yarn](https://yarnpkg.com/lang/en/) and [Expo](https://expo.io/).
