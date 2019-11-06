@@ -56,10 +56,6 @@ expo start
 * [NodeJS](https://nodejs.org/en/) -  The server-side JavaScript runtime environment
 * [Expo](https://expo.io/) - An open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
 
-## Authors
-
-* **Diego Fernandes ([@diego3g](https://github.com/diego3g))**
-
 ## License
 
 This project is licensed under the MIT License.
