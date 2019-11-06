@@ -19,17 +19,20 @@ Developed in React Native, using Expo, this client is used by the user to search
 ### How to run
 Its necessary to have NodeJS, NPM and Expo installed. 
 #### Backend
-There is an script "dev" (using [Nodemon](https://nodemon.io/) for development purpose) declared at backend/package.json to run the server.
+There is an script, **dev** (using [Nodemon](https://nodemon.io/) for development purpose), declared at backend/package.json to run the server.
 ```
 cd backend/
 npm run dev
 ```
-#### Run the browser client, "frontend/"
+#### Frontend
 ```
+cd frontend/
 npm start
 ```
-#### Run the mobile app, "mobile/". It is possible to run the app in a emulator (Genymotion | XCode)  as well as in the own phone. To run in the simulator (you can download [Genimotion](https://www.genymotion.com/) for that), and in the bundler admin select the option "Run android in a simulator". It will automatically seach for a running android simulator. Otherwise its possible to run in your phone device donwloading the expo app in the Play Store, and scan the QR code that appears at the bundler admin page.
+#### Mobile
+It is possible to run the app in a emulator (Genymotion | XCode) as well as in the own phone. To run in an Android emulator you can download [Genimotion](https://www.genymotion.com/). When running and in the bundler admin select the option "Run android in a simulator". It will automatically seach for a running android simulator. Otherwise its possible to run in your phone device donwloading the expo app in the Play Store, and scan the QR code that appears at the bundler admin page.
 ```
+cd mobile/
 npm install -g expo-cli
 
 ```
